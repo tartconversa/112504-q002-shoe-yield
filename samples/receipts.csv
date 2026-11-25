@@ -1,0 +1,5 @@
+delivery,school,truck,lot,pairs,size,at,status
+D1,S1,V1,L1,8,36,2026-08-04,departed
+D2,S2,V3,L2,10,37,2026-08-05,planned
+D4,S1,V3,L2,8,36,2026-08-05,planned
+D3,S3,V2,L3,5,38,2026-08-08,planned

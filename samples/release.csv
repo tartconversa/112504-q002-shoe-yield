@@ -1,0 +1,5 @@
+release,job,lot,max_pairs,reported,state
+R1,C1,L1,30,2026-08-03,accepted
+R2,C1,L2,24,2026-08-03,accepted
+R2,C1,L2,8,2026-08-05,restricted
+R3,C2,L3,22,2026-08-07,planned

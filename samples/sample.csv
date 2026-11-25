@@ -1,0 +1,11 @@
+item,lot,bag,selection,side,size,condition,known_on
+ID1,L1,B1,random,P,36,ok,2026-08-01
+ID2,L1,B1,random,Q,36,ok,2026-08-01
+ID3,L1,B2,random,P,36,ok,2026-08-01
+ID4,L1,B2,random,P,37,bad,2026-08-01
+ID5,L1,B3,targeted,Q,36,bad,2026-08-02
+ID6,L2,B4,random,Q,37,ok,2026-08-01
+ID7,L2,B4,random,P,37,ok,2026-08-01
+ID8,L2,B5,random,Q,38,bad,2026-08-01
+ID9,L3,B6,random,Q,36,ok,2026-08-02
+ID10,L3,B6,random,P,36,ok,2026-08-02
